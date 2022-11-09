@@ -16,4 +16,5 @@ provide actual path: <your path here>
 ```
 
 ### See also:
-Link I used https://www.ncbi.nlm.nih.gov/sra/SRX18211208[accn]
+1. Link I used https://www.ncbi.nlm.nih.gov/sra/SRX18211208[accn]
+2. Python toil framework does not provide tools for visualization
